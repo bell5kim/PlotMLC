@@ -18,3 +18,7 @@ SOURCES += main.cpp\
 HEADERS  += plotmlc.h
 
 FORMS    += plotmlc.ui
+
+DEFINES  += XVMC
+
+CONFIG   += qwt
